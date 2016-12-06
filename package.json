@@ -1,0 +1,8 @@
+{
+  "name": "html-stash",
+  "version": "1.0.0",
+  "description": "sneaky module for sending data from your server to the client",
+  "main": "index.js",
+  "author": "josephquested",
+  "license": "ISC"
+}
